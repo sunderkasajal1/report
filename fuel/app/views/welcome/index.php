@@ -14,8 +14,8 @@
 			float:left;
 		}
 		.page{
-			background-color: black !important;
-			color:white;
+			/*background-color: black !important;
+			color:white;*/
 			
 			
 		}

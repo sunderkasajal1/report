@@ -20,7 +20,7 @@ ini_set('display_errors', 1);
  * Website document root
  */
 define('DOCROOT', __DIR__.DIRECTORY_SEPARATOR);
-
+var_dump(DOCROOT);
 /**
  * Path to the application directory.
  */
